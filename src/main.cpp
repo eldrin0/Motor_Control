@@ -24,7 +24,6 @@ class Motor {
     }
 
     void IRAM_ATTR onPulse() {
-
       pulseCount++;
     }
 
